@@ -11,8 +11,4 @@ Clean UI with blurred background
 🛠️ Usage
 Open index.html in a browser and use the buttons to control the timer.
 
-📸 Screenshot
-
-![Stopwatch Screenshot](./assets/screenshot.png)
-
 
