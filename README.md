@@ -1,2 +1,18 @@
-# STOP-WATCH
-Developed a web-based Stopwatch using HTML, CSS, and JavaScript with real-time timer functionality.
+# Stopwatch
+A simple stopwatch built with HTML, CSS, and JavaScript.
+
+🚀 Features
+Start, Stop, Reset
+
+Millisecond precision
+
+Clean UI with blurred background
+
+🛠️ Usage
+Open index.html in a browser and use the buttons to control the timer.
+
+📸 Screenshot
+
+(./screenshot.png)
+
+
