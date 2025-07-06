@@ -13,6 +13,6 @@ Open index.html in a browser and use the buttons to control the timer.
 
 📸 Screenshot
 
-![Stopwatch Screenshot](./screenshot.png)
+![Stopwatch Screenshot](./assets/screenshot.png)
 
 
